@@ -28,10 +28,12 @@ Designed in **Figma** with a modern dark UI and bright lime accent color.
 - Wireframing
 - Auto Layout
 - Prototyping
+  
+[View FitPulse Design](https://www.figma.com/design/gfJ3IYoTnMW9sO76AuYI8Q/Fitness-app?node-id=0-1&m=dev&t=GKguYmbTfOL846F3-1)
 
  🔗 Figma Prototype
 
-[View FitPulse Design](https://www.figma.com/proto/gfJ3IYoTnMW9sO76AuYI8Q/Fitness-app?node-id=0-1&t=GKguYmbTfOL846F3-1)
+[View FitPulse prototype Design](https://www.figma.com/proto/gfJ3IYoTnMW9sO76AuYI8Q/Fitness-app?node-id=0-1&t=GKguYmbTfOL846F3-1)
  
  Internship
 
